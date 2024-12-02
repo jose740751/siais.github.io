@@ -1,0 +1,15 @@
+.colmena{
+    background-color: gold;color: black;font-family: Times New Roman;text-align: center;width:24%
+}
+.parrafos{
+    background-color:rgb(23, 110, 228,0.75);color: white;font-family: georgia;display: inline-block;width: 40%;
+}
+.frases{
+    font-weight: bold;font-style: italic;color: white;
+}
+.titulos{
+    background-color: rgb(23, 169, 228); color: white; text-align: center;font-size: 75px;font-weight: bold
+}
+.intros{
+    background-color: rgb(23, 110, 228,0.75);color:white;text-align: center
+}

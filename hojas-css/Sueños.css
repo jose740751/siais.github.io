@@ -1,0 +1,21 @@
+.Defensor{
+    background-color: rgb(255, 255, 255,0.75);color:rgb(35, 35, 102);font-family: gill sans;width: 24%;text-align: center;
+}
+.titulos{
+    background-color: blueviolet; color: white; text-align: center;font-size: 75px;font-weight: bold
+}
+.parrafos{
+    background-color: rgb(255,255,255,0.75);color:black;width: 40%;display: inline-block;
+}
+.frases{
+    font-weight: bold;font-style: italic;color: black;
+}
+.Gris{
+    background-color:rgb(74, 74, 134);color:white;font-family: georgia;width: 24%;text-align: center;
+}
+.intros{
+    background-color: rgb(255,255,255,0.75);color:black;text-align: center
+}
+.onis{
+    background-color: rgb(241, 241, 109);color:white;font-family: verdana;width: 24%;text-align: center;
+}

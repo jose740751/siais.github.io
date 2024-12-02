@@ -1,0 +1,24 @@
+.parrafos{
+    background-color: rgb(152,125,105,0.80); color: white; font-family:georgia; display:inline-block;width: 40%;
+   }
+   .frases{
+       font-weight: bold;font-style: italic;color: white
+   }
+   .intros{
+       text-align: center;font-family: times new roman; background-color: rgb(29,21,25,0.75); color: white;font-size: large
+   }
+   .panteones{
+    background-color: rgb(77, 60, 54);color:white;width: 24%;text-align: center
+   }
+   .buscador{
+    background-color: rgb(47,41,49);color:rgb(198,166,136);width: 24%;text-align: center
+   }
+   .titulos{
+    background-color: gold; color: white; text-align: center;font-size: 75px;font-weight: bold
+}
+   /* (29, 21, 25) - Negro violáceo (un negro con un ligero matiz púrpura oscuro)
+   (120, 101, 94) - Marrón topo (un gris marrón claro)
+   (198, 166, 136) - Beige arena (un beige cálido con tonos dorados)
+   (47, 41, 49) - Gris carbón (un gris muy oscuro, casi negro)
+   (152, 125, 105) - Marrón claro (un marrón suave con un toque cálido)
+   (68, 54, 60) - Marrón ceniza (un marrón oscuro con tonos grisáceos)/

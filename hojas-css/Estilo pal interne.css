@@ -1,0 +1,30 @@
+.caballero{
+    color: white; background-color: rgb(19, 21, 121);font-family: Times new roman;font-style: italic;width: 24%; display: inline-block;text-align: center;
+}
+.parrafos{
+ background-color: rgb(0,0,0,0.80); color: white; font-family:georgia; display:inline-block;width: 40%;
+}
+.quirrel{
+    color: white; background-color: rgb(19, 21, 121); font-family: times new roman;width: 24%;text-align: center;
+}
+.la-silson{
+    background-color: rgb(178, 40, 40); color: white; font-family: Serif;width: 24%;text-align: center;
+}
+.zote{
+ background-color: rgb(19, 21, 121);color: white; font-family: sans-serif;width: 24%;text-align: center;
+}
+.El-viejo{
+    background-color: rgb(19, 21, 121);color:white; font-family: verdana;width: 24%;text-align: center;
+}
+.frases{
+    font-weight: bold;font-style: italic;background-color: rgb(0, 0, 0,0.75);color: white
+}
+.intros{
+    text-align: center;font-family: times new roman; background-color: rgb(128,128,128,0.5); color: white;font-size: large
+}
+td{
+    width: 25%;height:25%;text-align: center;
+}
+h3{
+width: 100%;height: 100%;text-align: center;
+}

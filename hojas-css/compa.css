@@ -1,0 +1,21 @@
+.grimm{
+    background-color: rgb(42,52,57);color: rgb(237,41,57);font-family: Georgia;width: 24%;text-align: center;
+}
+.titulos{
+background-color: black; color: rgb(178,34,34); text-align: center;font-size: 75px;font-weight: bold
+}
+.parrafos{
+    background-color: rgb(178,34,34,0.5);color:white;width: 40%;display: inline-block;
+}
+.frases{
+    font-weight: bold;font-style: italic;color: white;
+}
+.intros{
+    background-color: rgb(255,255,255,0.75);color:black;text-align: center
+}
+.brumm{
+    background-color: black;color:rgb(127,23,52);font-family: sans-serif;width: 24%;text-align: center;
+}
+.divine{
+    background-color: rgb(97,64,81);color:white;font-family: Verdana;width: 24%;text-align: center;
+}
